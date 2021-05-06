@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import UserService from '../service/UserService';
+import UserService from '../services/UserService';
 export default {
   data() {
     return {
@@ -35,7 +35,3 @@ export default {
   }
 };
 </script>
-
-<style scoped>
-
-</style>
